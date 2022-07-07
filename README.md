@@ -11,17 +11,19 @@ Required Method to be Implemented:
 
 ## Phase 1: 	  File Name: Skin_Lesion_Segmentation.m
 		Step 1: Set Segmentation Accuracy Limit (i.e 80% now).
-		Step 2: Run The code, it will automatically segment all the images from dataset path and will 			save all images to either benign or malignant by using labels       provided in GroundTruth.			txt file
+		Step 2: Run The code, it will automatically segment all the images from dataset path and will 			
+		save all images to either benign or malignant by using labels
+		provided in GroundTruth.txt file
 		Step 3:	Command window will show the current progress of the segmentation algorithm.
 		Step 4:	Figures and Subplot will show the visual performance of the segmentation algorithm.
-		Step 5:	Finally, "000_Segmented.txt" file will be created having details about segmentation 			success cases.
+		Step 5:	Finally, "000_Segmented.txt" file will be created having details about segmentation success cases.
 		Step 6:	"000_FailCases.txt" file will be created having details for fail cases.
 
 ## Phase 2:    File Name: 	Skin_Lesion_Classification_Final.m
 		Step1: 	Set the Dataset portion Slpitting %
 		Step2:	Set Feature Vector Reduction Ratio
 		Step3:	Run the Code
-		Step4:	After Fusion and Feature Vector Finalization, results can be evaluated using 					Classification Learner app from Computer Vision Tool Box.
+		Step4:	After Fusion and Feature Vector Finalization, results can be evaluated using Classification Learner app from Computer Vision Tool Box.
 		Step 5:	Save Classfier training File
 
 ## Phase3:
