@@ -1,10 +1,5 @@
 # Computer-Vision-based-system-in-Matlab-for-Benign-and-Malignant-Classification-Skin-Lesion-Detection
 
-### Task :
-<br>
-![image](https://user-images.githubusercontent.com/25412736/177776544-f86e24c1-e627-4288-8ff5-c9fcf3917b42.png)
-<br>
-
 Required Method to be Implemented:
 ![WhatsApp Image 2022-02-20 at 6 33 47 AM](https://user-images.githubusercontent.com/25412736/177776710-93f71389-9541-4e63-a07d-c212eb6c940f.jpeg)
 
@@ -31,5 +26,12 @@ Required Method to be Implemented:
 		Step 1 : Load the trained classifier from directory
 		Step 2 : Calculate the Sensitiy and Specificity using Confusion Matrix
 
-
-
+# Hog Visualization 
+<center>
+![input](https://user-images.githubusercontent.com/25412736/177777539-197d8598-e684-4667-aad3-32ac353d63f0.png)
+</center> 
+<br> <center> Input Image</center> <br>
+<center>
+	![HogVisualization](https://user-images.githubusercontent.com/25412736/177777675-e838acbc-6952-4dea-af45-eddfc377006c.png)
+</center> 
+<br> <center> HoGImage</center> <br>
