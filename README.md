@@ -32,6 +32,6 @@ Required Method to be Implemented:
 </center> 
 <br> <center> Input Image</center> <br>
 <center>
-	![HogVisualization](https://user-images.githubusercontent.com/25412736/177777675-e838acbc-6952-4dea-af45-eddfc377006c.png)
+	![HogVisualization](https://user-images.githubusercontent.com/25412736/177777906-c7ea5575-135b-495c-bb3b-9fbc57917f16.png)
 </center> 
 <br> <center> HoGImage</center> <br>
