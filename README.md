@@ -1,5 +1,10 @@
 # Computer-Vision-based-system-in-Matlab-for-Benign-and-Malignant-Classification-Skin-Lesion-Detection
 
+# Review from Client -> 
+
+![Review 2 Upwork](https://user-images.githubusercontent.com/25412736/183263114-1a9530e1-6575-461c-9069-9816bece1af3.JPG)
+
+
 Required Method to be Implemented:
 ![WhatsApp Image 2022-02-20 at 6 33 47 AM](https://user-images.githubusercontent.com/25412736/177776710-93f71389-9541-4e63-a07d-c212eb6c940f.jpeg)
 
